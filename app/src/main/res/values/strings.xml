@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gestion Étudiants</string>
+    <string name="nom_label">Nom :</string>
+    <string name="prenom_label">Prénom :</string>
+    <string name="valider">Valider</string>
+    <string name="id_label">ID Étudiant :</string>
+    <string name="chercher">Chercher</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="etudiant_ajoute">Étudiant ajouté</string>
+    <string name="etudiant_supprime">Étudiant supprimé</string>
+    <string name="etudiant_introuvable">Étudiant introuvable</string>
+    <string name="aucun_etudiant_supprimer">Aucun étudiant à supprimer</string>
+    <string name="saisir_id">Saisir un ID</string>
+    <string name="remplir_champs">Veuillez remplir tous les champs</string>
+    <string name="resultat_format">%1$s %2$s</string>
+</resources>
