@@ -24,3 +24,8 @@ Le projet suit une structure organisée :
 1. Saisissez le nom et le prénom dans les champs correspondants.
 2. Cliquez sur **Valider** pour enregistrer.
 3. Pour rechercher ou supprimer, saisissez l'**ID** de l'étudiant et cliquez sur le bouton correspondant.
+
+<img width="178" height="363" alt="1" src="https://github.com/user-attachments/assets/9f0a21f5-6cfe-44c3-ae4c-6faaaffc541a" />
+
+
+   
